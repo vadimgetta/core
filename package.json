@@ -1,5 +1,5 @@
 {
-  "name": "@hello_iam_vadim/tcinema/core",
+ "name": "hello_vadim-tcinema-core",
   "version": "1.1.0",
   "description": "Core utils",
   "license": "ISC",
@@ -14,7 +14,7 @@
     "prettier" : "^3.9.10"
   },
   "dependencies": {
-    "@trivago/prettier-plugin-sort-imports" : "^5.2.2 "
+    "@trivago/prettier-plugin-sort-imports" : "^5.2.2"
   },
   "exports": {
     "prettier" : "./src/prettier.config.mjs"
